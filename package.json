@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hws47a/stylelint-magento-standard.git"
+    "url": "git+https://github.com/monsoonconsulting/stylelint-magento-standard.git"
   },
   "keywords": [
     "stylelint",
@@ -19,9 +19,9 @@
   "author": "Vladimir Fishchenko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hws47a/stylelint-magento-standard/issues"
+    "url": "https://github.com/monsoonconsulting/stylelint-magento-standard/issues"
   },
-  "homepage": "https://github.com/hws47a/stylelint-magento-standard#readme",
+  "homepage": "https://github.com/monsoonconsulting/stylelint-magento-standard#readme",
   "dependencies": {
     "stylelint-config-standard": "^18.2.0"
   },
