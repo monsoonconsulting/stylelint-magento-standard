@@ -5,3 +5,9 @@
 > A Magento standard shareable config for stylelint
 
 Extends [`stylelint-config-standard`](https://github.com/stylelint/stylelint-config-standard).
+
+## Usage
+
+```
+npm i stylelint-magento-standard-mc
+```
