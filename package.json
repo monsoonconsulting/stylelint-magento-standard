@@ -17,6 +17,9 @@
     "magento"
   ],
   "author": "Vladimir Fishchenko",
+  "contributors": [
+    "Ross McHugh"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/monsoonconsulting/stylelint-magento-standard/issues"
