@@ -1,6 +1,6 @@
 {
   "name": "stylelint-magento-standard-mc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Magento standard shareable config for stylelint",
   "main": "index.js",
   "scripts": {
